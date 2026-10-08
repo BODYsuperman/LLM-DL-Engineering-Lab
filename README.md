@@ -160,4 +160,4 @@ Notebooks can be opened and run directly with the repo's `.venv` kernel.
 ## 📖 References
 
 - *Deep Learning from Scratch* (《深度学习入门：基于 Python 的理论与实现》) — the `common/` library structure and two-layer-net implementation pattern in ch02–ch05
-- Other books/courses: TODO
+- Other books/courses: ...
