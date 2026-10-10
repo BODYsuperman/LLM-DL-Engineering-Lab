@@ -2,6 +2,8 @@
 
 [English](README.md) | **简体中文**
 
+[![Python](https://img.shields.io/badge/Python-3.14%2B-blue.svg)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange.svg)](https://pytorch.org/) [![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blueviolet.svg)](https://numpy.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/) [![uv](https://img.shields.io/badge/uv-Package%20Manager-de5d68.svg)](https://docs.astral.sh/uv/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > 深度学习入门实验仓库：从纯 NumPy 手写神经网络开始，逐步过渡到 PyTorch，按章节递进地实现前向传播、反向传播、优化器、CNN 与 RNN。
 
 这是一个个人学习/实验型仓库，每个目录对应一章学习内容，包含按序号编排的独立脚本与 Notebook。没有构建产物、测试套件或部署流程——所有示例直接运行并打印/绘图输出结果。
@@ -160,3 +162,7 @@ Notebook 直接用仓库 `.venv` 内核打开运行即可。
 
 - 《深度学习入门：基于 Python 的理论与实现》（鱼书）—— ch02–ch05 的 `common/` 库结构与两层网络实现范式
 - 其他参考书目/课程：...
+
+## 📄 许可证
+
+本项目基于 MIT 许可证开源，详见 [LICENSE](LICENSE)。

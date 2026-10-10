@@ -2,6 +2,8 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
+[![Python](https://img.shields.io/badge/Python-3.14%2B-blue.svg)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange.svg)](https://pytorch.org/) [![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blueviolet.svg)](https://numpy.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/) [![uv](https://img.shields.io/badge/uv-Package%20Manager-de5d68.svg)](https://docs.astral.sh/uv/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > A hands-on deep learning lab: starting from neural networks written from scratch in pure NumPy, progressing to PyTorch, implementing forward propagation, backpropagation, optimizers, CNNs, and RNNs chapter by chapter.
 
 This is a personal learning/experimentation repository. Each directory corresponds to one chapter of study material, containing numbered standalone scripts and notebooks. There are no build artifacts, test suites, or deployment pipelines — every example runs directly and prints or plots its results.
@@ -161,3 +163,7 @@ Notebooks can be opened and run directly with the repo's `.venv` kernel.
 
 - *Deep Learning from Scratch* (《深度学习入门：基于 Python 的理论与实现》) — the `common/` library structure and two-layer-net implementation pattern in ch02–ch05
 - Other books/courses: ...
+
+## 📄 License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
